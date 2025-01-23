@@ -1,5 +1,5 @@
 ---
 title: "About"
-draft: true
+draft: false
 ---
 Hello!
