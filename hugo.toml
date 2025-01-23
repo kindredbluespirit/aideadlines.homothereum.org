@@ -16,6 +16,10 @@ pagerSize = 20
 [markup.highlight]
 style = "github-dark"
 
+# [[module.mounts]]
+# source = 'content/conferences'
+# target = 'content'
+
 [params]
   author = "Sai Tarun Inaganti"
   authorSite = "https://inaganti.homothereum.org"
