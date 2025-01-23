@@ -1,20 +1,27 @@
 ---
-title: "<conference-name>"
-location: [city](maps.google.com)
-date: 01 Oct 2024
-# expiryDate: 01 Oct 2025
+title: "WACV 2025"
+date: 09 Sep 2024
+description: Round 2 submission
+# expiryDate: 04 Mar 2025
+location: Tucson, AZ
+# locationURL: https://maps.app.goo.gl/qLqrwjYBE4SpCJ7d7
+externalURL: https://wacv2025.thecvf.com/
 tags: [ "CV" ]
 draft: false
 ---
 
 ## Conference Dates
 
-Start Date -
+Start Date - February 28, 2025
 
-End Date - `add .Params.expiryDate here`
+End Date - March 4, 2025
 
 ## Deadlines
 
-`add .Params.date here`
+Round 1 submission - July 15, 2024
+
+Round 2 submission - September 9, 2024
 
 ## Description
+
+[[Site](https://wacv2025.thecvf.com/)]
