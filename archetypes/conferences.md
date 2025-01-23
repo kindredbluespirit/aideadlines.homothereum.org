@@ -4,7 +4,6 @@ date: 09 Sep 2024
 description: Round 2 submission
 # expiryDate: 04 Mar 2025
 location: Tucson, AZ
-# locationURL: https://maps.app.goo.gl/qLqrwjYBE4SpCJ7d7
 externalURL: https://wacv2025.thecvf.com/
 tags: [ "CV" ]
 draft: false
@@ -12,16 +11,10 @@ draft: false
 
 ## Conference Dates
 
-Start Date - February 28, 2025
-
-End Date - March 4, 2025
+February 28 - March 4, 2025
 
 ## Deadlines
 
-Round 1 submission - July 15, 2024
+Round 1 Submission - July 15, 2024
 
-Round 2 submission - September 9, 2024
-
-## Description
-
-[[Site](https://wacv2025.thecvf.com/)]
+Round 2 Submission - September 9, 2024
