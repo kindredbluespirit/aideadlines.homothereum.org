@@ -81,6 +81,6 @@ style = "github-dark"
   weight = 2
   url = "about/"
 # [[menu.main]]
-#   name = "Github"
+#   name = "GitHub"
 #   weight = 2
 #   url = "https://github.com/kindredbluespirit/aideadlines.homothereum.org"
