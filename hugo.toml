@@ -9,26 +9,27 @@ buildFuture = true
 [pagination]
 pagerSize = 20
 
-[services]
-[services.disqus]
-shortname = "yourdiscussshortname"
+# [services]
+# [services.disqus]
+# shortname = "yourdiscussshortname"
 
 [markup.highlight]
 style = "github-dark"
 
 [params]
-  author = "John Doe"
-  info = "Full Stack DevOps and Magician"
-  description = "John Doe's personal website"
-  keywords = "blog,developer,personal"
-  avatarurl = "images/avatar.jpg"
+  author = "Sai Tarun Inaganti"
+  authorSite = "https://inaganti.homothereum.org"
+#   info = "Full Stack DevOps and Magician"
+#   description = "John Doe's personal website"
+#   keywords = "blog,developer,personal"
+#   avatarurl = "images/avatar.jpg"
   #gravatar = "john.doe@example.com"
 
-  faviconSVG = "/img/favicon.svg"
-  favicon_32 = "/img/favicon-32x32.png"
-  favicon_16 = "/img/favicon-16x16.png"
+#   faviconSVG = "/img/favicon.svg"
+#   favicon_32 = "/img/favicon-32x32.png"
+#   favicon_16 = "/img/favicon-16x16.png"
 
-  since = 2019
+  since = 2024
 
   enableTwemoji = true
 
@@ -40,10 +41,10 @@ style = "github-dark"
   # customJS = ["js/custom.js"]
 
 [taxonomies]
-  category = "categories"
-  series = "series"
+#   category = "categories"
+#   series = "series"
   tag = "tags"
-  author = "authors"
+#   author = "authors"
 
 # Social links
 [[params.social]]

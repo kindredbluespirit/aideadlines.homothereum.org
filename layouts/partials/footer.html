@@ -5,7 +5,14 @@
       {{ .Site.Params.since }} -
     {{ end }}
     {{ now.Year }}
-    {{ with .Site.Params.author }} {{ . }} {{ end }}
+    {{ with .Site.Params.author }} 
+        {{ with $.Site.Params.authorSite }}
+            <a href="{{ . }}" target="_blank" rel="noopener">{{ end }}
+        {{ . }}
+        {{ with $.Site.Params.authorSite }}
+            </a>
+        {{ end }}
+    {{ end }}
     ·
     {{ if (and .Site.Params.license) }}
       {{ i18n "licensed_under" }} {{ .Site.Params.license | safeHTML }}
