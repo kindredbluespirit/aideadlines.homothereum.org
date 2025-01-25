@@ -1,6 +1,6 @@
 ---
-title: "WACV 2025"
-date: 17 Jan 2024
+title: "RSS 2025"
+date: 17 Jan 2025
 description: Abstract Submission
 expiryDate: 25 Jun 2025
 location: Los Angeles, CA
